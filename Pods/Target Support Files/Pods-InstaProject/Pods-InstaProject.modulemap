@@ -1,0 +1,6 @@
+framework module Pods_InstaProject {
+  umbrella header "Pods-InstaProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "userName": "milena_thebrowbar",
+      "location": "Ukraine, Kharkov",
+      "userIcon": "firstUserIcon",
+      "images": [
+        "firstUserImage1",
+        "firstUserImage2"
+      ],
+      "likes": [
+        "multik",
+        "21vek",
+        "tvoy_zaychik",
+        "d1amond",
+        "flower",
+        "so_cute",
+        "gimbik, fetosh"
+      ],
+      "comments": [
+        {
+          "name": "plis.r",
+          "text": "NY is a beautiful city"
+        }
+      ],
+      "time": "3 hours ago"
+    },
+    {
+      "userName": "irina_kosianenko",
+      "location": "USA, California",
+      "userIcon": "secondUserIcon",
+      "images": [
+        "secondUserImage1"
+      ],
+      "likes": [
+        "open heart",
+        "Tinajer",
+        "lucky_ducky",
+        "Anage",
+        "Santana"
+      ],
+      "comments": [
+        {
+          "name": "zhenyapronko",
+          "text": "summer, cool"
+        },
+        {
+          "name": "ki.8126",
+          "text": "want to you"
+        },
+        {
+            "name": "arsenii3363",
+            "text": "creativity"
+        },
+        {
+            "name": "bim",
+            "text": "coffee, siga, hvost"
+        }
+      ],
+      "time": "2 hors ago"
+    }
+  ]
+}
